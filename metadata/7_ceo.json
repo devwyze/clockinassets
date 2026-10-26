@@ -1,0 +1,37 @@
+{
+  "name": "CLOCK IN Badge — CEO",
+  "symbol": "CLOCKIN",
+  "description": "CLOCK IN employee badge. Rank 7: Chief Executive Officer (CEO). 6 seats globally. Earned rank only (no fast-track). Won only through a Boardroom challenge, never by promotion. Boardroom challenge deposit: 3,620,000 $CLOCK.",
+  "image": "https://cdn.jsdelivr.net/gh/{{REPO}}@{{IMAGES_COMMIT}}/images/7_ceo.png",
+  "attributes": [
+    {
+      "trait_type": "Rank",
+      "value": "CEO"
+    },
+    {
+      "trait_type": "Rank Level",
+      "value": 7
+    },
+    {
+      "trait_type": "Seats Cap",
+      "value": "6"
+    },
+    {
+      "trait_type": "Promotion",
+      "value": "Boardroom challenge only"
+    },
+    {
+      "trait_type": "Challenge Deposit",
+      "value": "3,620,000 $CLOCK"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://cdn.jsdelivr.net/gh/{{REPO}}@{{IMAGES_COMMIT}}/images/7_ceo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}

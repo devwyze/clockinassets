@@ -1,0 +1,29 @@
+{
+  "name": "CLOCK IN Badge — Intern",
+  "symbol": "CLOCKIN",
+  "description": "CLOCK IN employee badge. Rank 0: Intern. Unlimited seats.",
+  "image": "https://cdn.jsdelivr.net/gh/{{REPO}}@{{IMAGES_COMMIT}}/images/0_intern.png",
+  "attributes": [
+    {
+      "trait_type": "Rank",
+      "value": "Intern"
+    },
+    {
+      "trait_type": "Rank Level",
+      "value": 0
+    },
+    {
+      "trait_type": "Seats Cap",
+      "value": "Unlimited"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://cdn.jsdelivr.net/gh/{{REPO}}@{{IMAGES_COMMIT}}/images/0_intern.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "CLOCK IN Badge — VP",
+  "symbol": "CLOCKIN",
+  "description": "CLOCK IN employee badge. Rank 5: Vice President (VP). 32 seats globally. Earned rank only (no fast-track). Boardroom challenge deposit: 800,000 $CLOCK.",
+  "image": "https://cdn.jsdelivr.net/gh/{{REPO}}@{{IMAGES_COMMIT}}/images/5_vp.png",
+  "attributes": [
+    {
+      "trait_type": "Rank",
+      "value": "VP"
+    },
+    {
+      "trait_type": "Rank Level",
+      "value": 5
+    },
+    {
+      "trait_type": "Seats Cap",
+      "value": "32"
+    },
+    {
+      "trait_type": "Points Required",
+      "value": 1400
+    },
+    {
+      "trait_type": "Tenure Required",
+      "value": "30 days"
+    },
+    {
+      "trait_type": "Challenge Deposit",
+      "value": "800,000 $CLOCK"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://cdn.jsdelivr.net/gh/{{REPO}}@{{IMAGES_COMMIT}}/images/5_vp.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}

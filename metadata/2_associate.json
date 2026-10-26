@@ -1,0 +1,41 @@
+{
+  "name": "CLOCK IN Badge — Associate",
+  "symbol": "CLOCKIN",
+  "description": "CLOCK IN employee badge. Rank 2: Associate. Unlimited seats. Fast-track available for 300,000 $CLOCK.",
+  "image": "https://cdn.jsdelivr.net/gh/{{REPO}}@{{IMAGES_COMMIT}}/images/2_associate.png",
+  "attributes": [
+    {
+      "trait_type": "Rank",
+      "value": "Associate"
+    },
+    {
+      "trait_type": "Rank Level",
+      "value": 2
+    },
+    {
+      "trait_type": "Seats Cap",
+      "value": "Unlimited"
+    },
+    {
+      "trait_type": "Points Required",
+      "value": 120
+    },
+    {
+      "trait_type": "Tenure Required",
+      "value": "7 days"
+    },
+    {
+      "trait_type": "Fast Track Cost",
+      "value": "300,000 $CLOCK"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://cdn.jsdelivr.net/gh/{{REPO}}@{{IMAGES_COMMIT}}/images/2_associate.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}

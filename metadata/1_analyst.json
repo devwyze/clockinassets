@@ -1,0 +1,41 @@
+{
+  "name": "CLOCK IN Badge — Analyst",
+  "symbol": "CLOCKIN",
+  "description": "CLOCK IN employee badge. Rank 1: Analyst. Unlimited seats. Fast-track available for 100,000 $CLOCK.",
+  "image": "https://cdn.jsdelivr.net/gh/{{REPO}}@{{IMAGES_COMMIT}}/images/1_analyst.png",
+  "attributes": [
+    {
+      "trait_type": "Rank",
+      "value": "Analyst"
+    },
+    {
+      "trait_type": "Rank Level",
+      "value": 1
+    },
+    {
+      "trait_type": "Seats Cap",
+      "value": "Unlimited"
+    },
+    {
+      "trait_type": "Points Required",
+      "value": 40
+    },
+    {
+      "trait_type": "Tenure Required",
+      "value": "3 days"
+    },
+    {
+      "trait_type": "Fast Track Cost",
+      "value": "100,000 $CLOCK"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://cdn.jsdelivr.net/gh/{{REPO}}@{{IMAGES_COMMIT}}/images/1_analyst.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}

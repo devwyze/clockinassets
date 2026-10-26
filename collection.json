@@ -1,0 +1,15 @@
+{
+  "name": "CLOCK IN Badges",
+  "symbol": "CLOCKIN",
+  "description": "Employee badges for CLOCK IN, the on-chain corporate ladder on Solana. Climb from Intern to CEO.",
+  "image": "https://cdn.jsdelivr.net/gh/{{REPO}}@{{IMAGES_COMMIT}}/images/collection.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://cdn.jsdelivr.net/gh/{{REPO}}@{{IMAGES_COMMIT}}/images/collection.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
