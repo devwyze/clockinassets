@@ -2,7 +2,7 @@
   "name": "CLOCK IN Badge — SVP",
   "symbol": "CLOCKIN",
   "description": "CLOCK IN employee badge. Rank 6: Senior Vice President (SVP). 9 seats globally. Earned rank only (no fast-track). Boardroom challenge deposit: 1,800,000 $CLOCK.",
-  "image": "https://cdn.jsdelivr.net/gh/{{REPO}}@{{IMAGES_COMMIT}}/images/6_svp.png",
+  "image": "https://cdn.jsdelivr.net/gh/devwyze/clockinassets@270740032b16b7dc81ca202ab6265914e46a8fdc/images/6_svp.png",
   "attributes": [
     {
       "trait_type": "Rank",
@@ -32,7 +32,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://cdn.jsdelivr.net/gh/{{REPO}}@{{IMAGES_COMMIT}}/images/6_svp.png",
+        "uri": "https://cdn.jsdelivr.net/gh/devwyze/clockinassets@270740032b16b7dc81ca202ab6265914e46a8fdc/images/6_svp.png",
         "type": "image/png"
       }
     ],

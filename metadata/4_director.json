@@ -2,7 +2,7 @@
   "name": "CLOCK IN Badge — Director",
   "symbol": "CLOCKIN",
   "description": "CLOCK IN employee badge. Rank 4: Director. 86 seats globally. Earned rank only (no fast-track). Boardroom challenge deposit: 380,000 $CLOCK.",
-  "image": "https://cdn.jsdelivr.net/gh/{{REPO}}@{{IMAGES_COMMIT}}/images/4_director.png",
+  "image": "https://cdn.jsdelivr.net/gh/devwyze/clockinassets@270740032b16b7dc81ca202ab6265914e46a8fdc/images/4_director.png",
   "attributes": [
     {
       "trait_type": "Rank",
@@ -32,7 +32,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://cdn.jsdelivr.net/gh/{{REPO}}@{{IMAGES_COMMIT}}/images/4_director.png",
+        "uri": "https://cdn.jsdelivr.net/gh/devwyze/clockinassets@270740032b16b7dc81ca202ab6265914e46a8fdc/images/4_director.png",
         "type": "image/png"
       }
     ],

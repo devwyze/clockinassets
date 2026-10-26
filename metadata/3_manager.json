@@ -2,7 +2,7 @@
   "name": "CLOCK IN Badge — Manager",
   "symbol": "CLOCKIN",
   "description": "CLOCK IN employee badge. Rank 3: Manager. 216 seats globally. Fast-track available for 700,000 $CLOCK. Boardroom challenge deposit: 180,000 $CLOCK.",
-  "image": "https://cdn.jsdelivr.net/gh/{{REPO}}@{{IMAGES_COMMIT}}/images/3_manager.png",
+  "image": "https://cdn.jsdelivr.net/gh/devwyze/clockinassets@270740032b16b7dc81ca202ab6265914e46a8fdc/images/3_manager.png",
   "attributes": [
     {
       "trait_type": "Rank",
@@ -36,7 +36,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://cdn.jsdelivr.net/gh/{{REPO}}@{{IMAGES_COMMIT}}/images/3_manager.png",
+        "uri": "https://cdn.jsdelivr.net/gh/devwyze/clockinassets@270740032b16b7dc81ca202ab6265914e46a8fdc/images/3_manager.png",
         "type": "image/png"
       }
     ],

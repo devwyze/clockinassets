@@ -2,7 +2,7 @@
   "name": "CLOCK IN Badge — Associate",
   "symbol": "CLOCKIN",
   "description": "CLOCK IN employee badge. Rank 2: Associate. Unlimited seats. Fast-track available for 300,000 $CLOCK.",
-  "image": "https://cdn.jsdelivr.net/gh/{{REPO}}@{{IMAGES_COMMIT}}/images/2_associate.png",
+  "image": "https://cdn.jsdelivr.net/gh/devwyze/clockinassets@270740032b16b7dc81ca202ab6265914e46a8fdc/images/2_associate.png",
   "attributes": [
     {
       "trait_type": "Rank",
@@ -32,7 +32,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://cdn.jsdelivr.net/gh/{{REPO}}@{{IMAGES_COMMIT}}/images/2_associate.png",
+        "uri": "https://cdn.jsdelivr.net/gh/devwyze/clockinassets@270740032b16b7dc81ca202ab6265914e46a8fdc/images/2_associate.png",
         "type": "image/png"
       }
     ],
